@@ -1,3 +1,3 @@
 # Instagram-Parser-Telegram-Bot
 
-* [] develop simple profile parser bot
+* [ ] develop simple profile parser bot
